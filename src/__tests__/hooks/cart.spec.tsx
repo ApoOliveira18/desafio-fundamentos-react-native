@@ -36,7 +36,7 @@ const TestComponent: React.FC = () => {
       title: 'Test product',
       image_url: 'test',
       price: 1000,
-      quantity: 0,
+      // quantity: 0,
     });
   }
 
@@ -88,7 +88,7 @@ describe('Cart Context', () => {
         <TestComponent />
       </CartProvider>,
     );
-
+    
     act(() => {
       fireEvent.press(getByTestId('add-to-cart'));
     });
