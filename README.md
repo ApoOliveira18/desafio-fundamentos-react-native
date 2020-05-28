@@ -20,8 +20,9 @@
 <p>In this challenge, he will develop a new application, GoMarketplace. This time it's time for you to practice what you've learned so far in React Native, along with TypeScript, using routes, Async Storage and the Context API.</p>
 
 <p align="center">    
-  <img alt="Login-Page" title="Login-Page" src="src/assets/result.png" width="600px" />
-  <img alt="Login-Page" title="Login-Page" src="src/assets/des.png" width="600px" />
+  <img alt="Login-Page" title="Login-Page" src="src/assets/int1.png" width="600px" />
+  <img alt="Login-Page" title="Login-Page" src="src/assets/int2.png" width="600px" />
+   <img alt="Login-Page" title="Login-Page" src="src/assets/test.png" width="600px" />
  </p>
 
 
