@@ -42,9 +42,9 @@ From your command line:
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/ApoOliveira18/desafio-fundamentos-nodejs.git
+$ git clone https://github.com/ApoOliveira18/desafio-fundamentos-react-native.git
 # Go into the repository
-$ cd desafio-fundamentos-nodejs/
+$ cd desafio-fundamentos-react-native/
 
 # Install dependencies for directories
 
