@@ -30,12 +30,12 @@
 
 This project was developed with the following technologies:
 
-- [Node.js](https://nodejs.org/en/) 
+- [ReactNative](https://reactnative.dev/) 
 - [Typeorm](https://typeorm.io/#/)
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com), [ReactNative][reactnative] + [Yarn][yarn] installed on your computer.
 
 From your command line:
 
@@ -76,6 +76,7 @@ Feito com ♥ && 🎧 && 😊 || 😥
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+[reactnative]: https://reactnative.dev/
 
 
 
