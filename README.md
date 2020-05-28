@@ -31,7 +31,7 @@
 This project was developed with the following technologies:
 
 - [ReactNative](https://reactnative.dev/) 
-- [Typeorm](https://typeorm.io/#/)
+- [Tyscript](https://www.typescriptlang.org/docs/home.html)
 
 ## :information_source: How To Use
 
@@ -47,6 +47,7 @@ $ git clone https://github.com/ApoOliveira18/desafio-fundamentos-react-native.gi
 $ cd desafio-fundamentos-react-native/
 
 # Install dependencies for directories
+$yarn
 
 # Run tests
 $ yarn test
@@ -77,6 +78,7 @@ Feito com ♥ && 🎧 && 😊 || 😥
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 [reactnative]: https://reactnative.dev/
+[typescript]: https://www.typescriptlang.org/docs/home.html
 
 
 
