@@ -22,7 +22,7 @@
 <p align="center">    
   <img alt="Login-Page" title="Login-Page" src="src/assets/int1.png" width="300px" />
   <img alt="Login-Page" title="Login-Page" src="src/assets/int2.png" width="300px" />
-   <img alt="Login-Page" title="Login-Page" src="src/assets/test.png" width="300px" />
+   <img alt="Login-Page" title="Login-Page" src="src/assets/test.png" width="350px" />
  </p>
 
 
