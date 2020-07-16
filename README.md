@@ -31,7 +31,7 @@
 This project was developed with the following technologies:
 
 - [ReactNative](https://reactnative.dev/) 
-- [Tyscript](https://www.typescriptlang.org/docs/home.html)
+- [Typescript](https://www.typescriptlang.org/docs/home.html)
 
 ## :information_source: How To Use
 
